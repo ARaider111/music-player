@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/svg-icon">
+        <file>svg pictures/repeat-icon.svg</file>
+        <file>svg pictures/media-player-ui-button-repeat-loop-svgrepo-com.svg</file>
+    </qresource>
+</RCC>
